@@ -1,0 +1,6 @@
+:root{
+    --tv-banner-color: #FEEAE9;
+}
+.header-banner{
+    background: var(--tv-banner-color);
+}
